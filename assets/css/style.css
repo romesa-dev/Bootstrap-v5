@@ -11874,5 +11874,8 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.menu {
+  background: linear-gradient(to right, rgba(153, 38, 240, 0.95), rgba(214, 51, 132, 0.95));
+}
 
 /*# sourceMappingURL=style.css.map */
